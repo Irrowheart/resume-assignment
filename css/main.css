@@ -1,1 +1,15 @@
 /* Place CSS styles here */
+img    {
+    width: 500px;
+    height: auto;
+    /* atempted to make gif center, coudnt figure it out */
+    align-items: center; 
+  }
+
+
+p{
+    text-align: center;
+    margin-right: 200px ;
+    margin-left: 200px ;
+    margin-top: 50px ;
+}
